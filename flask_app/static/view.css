@@ -1,0 +1,34 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+a {
+    margin-right: 2rem;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe-border {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}

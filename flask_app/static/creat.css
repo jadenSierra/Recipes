@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+a {
+    margin-right: 2rem;
+}
+
+
+.header {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.date_number {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
